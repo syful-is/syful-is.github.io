@@ -420,21 +420,7 @@ Party Package Management using Q&A Sites", 2nd Workshop for Next-Generation Soft
 					
                   </div>
                 </li>
-				 <li>
-                  <div class="content-text">
-                    <h3 class="line-title">Departmental Scholarship [Full free] (2 years)</h3>
-					<p class="line-text"> Ideal College, Dhaka, Bangladesh.</p>
-					
-                  </div>
-                </li>
-                <li>
-                  <div class="content-text">
-                    <h3 class="line-title">Scholarship (Thana First in the central exam)</h3>
-					<p class="line-text">Dhaka Board, Bangladesh.</p>
-                    
-					
-                  </div>
-                </li>
+				 
               </ul>
             </div>
           </div>
@@ -478,7 +464,7 @@ Party Package Management using Q&A Sites", 2nd Workshop for Next-Generation Soft
             <div class="counter wow fadeInDown" data-wow-delay="1.2s">
               <div class="icon"><i class="fas fa-book-reader"></i></div>
               <div class="counterUp">03</div>
-              <p>Sub-Reviewer</p>
+              <p>Reviewer</p>
             </div>
           </div>
         </div>
