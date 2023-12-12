@@ -180,15 +180,15 @@
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="profile-wrapper wow fadeInRight" data-wow-delay="0.3s">
               <h3>Hi Guys!</h3>
-              <p align="justify"> I received the Masters, and PhD degree in Engineering from Nara Institute of Science and Technology, Japan.  At present, I am working as a lecturer in the department of computer science and engineering, Bangabandhu Sheikh Mujibur Rahman Science and Technology University. I also worked an assistant professor in the department of computer science and telecommunication engineering, Noakhali Science and Technology University, Bangladesh. My research interests include software ecosystem, mining Stack Overflow, machine learning etc.</p>
+              <p align="justify"> I received the Masters, and PhD degree in Engineering from Nara Institute of Science and Technology, Japan.  At present, I am working as an Assistant Professor in the department of computer science and engineering, Bangabandhu Sheikh Mujibur Rahman Science and Technology University. I also worked an assistant professor in the department of computer science and telecommunication engineering, Noakhali Science and Technology University, Bangladesh. My research interests include software ecosystem, mining Stack Overflow, machine learning etc.</p>
               <div class="about-profile">
                 <ul class="admin-profile">
                   <li><span class="pro-title"> Name </span> <span class="pro-detail">Syful Islam</span></li>
 				  <li><span class="pro-title"> Sex </span> <span class="pro-detail">Male</span></li>
                   <li><span class="pro-title"> Birth Date </span> <span class="pro-detail">31-12-1990</span></li>
                   <li><span class="pro-title"> Nationality </span> <span class="pro-detail">Bangladeshi</span></li>
-                  <li><span class="pro-title"> PT Address </span> <span class="pro-detail">Sheikh Bari, Munirkandi, Gohala-7911, Muksudpur, Gopalganj.</span></li>
-				  <li><span class="pro-title"> CT Address </span> <span class="pro-detail">Dept. Of CSE, BSMRSTU, Gopalganj-8100.</span></li>
+                  <li><span class="pro-title"> Permanent Address </span> <span class="pro-detail">Sheikh Bari, Munirkandi, Gohala-7911, Muksudpur, Gopalganj.</span></li>
+				  <li><span class="pro-title"> Current Address </span> <span class="pro-detail">Dept. Of CSE, BSMRSTU, Gopalganj-8100.</span></li>
 
                   <li><span class="pro-title"> E-mail </span> <span class="pro-detail">syfulcse@bsmrstu.edu.bd, syfulcste@gmail.com</span></li>
                   <li><span class="pro-title"> Phone </span> <span class="pro-detail">+88 01718745365</span></li>
@@ -284,7 +284,7 @@ Party Package Management using Q&A Sites", 2nd Workshop for Next-Generation Soft
                 </li>
                 <li>
                   <div class="content-text">
-                    <h3 class="line-title">Master of Engineering, Information Science, NAIST, Japan</h3>
+                    <h3 class="line-title">Master of Engineering in Information Science, NAIST, Japan</h3>
                     <p class="line-text">2017 - 2019</p>
 					<p class="line-text"><a href="https://scholar.google.com/citations?user=gvEjrHIAAAAJ&hl=en&oi=ao">Supervisor:  Prof. Michiko Inoue</a></p>
 					<p class="line-text"><a href="https://raux.github.io/">Co-Supervisor: Assist.Prof. Michihiro Shintani</a></p>
@@ -293,7 +293,7 @@ Party Package Management using Q&A Sites", 2nd Workshop for Next-Generation Soft
                 </li>
                 <li>
                   <div class="content-text">
-                    <h3 class="line-title">B.Sc. Engineering in in CSTE, NSTU, Noakhali-3814, Bangladesh.</h3>
+                    <h3 class="line-title">B.Sc. Engineering in CSTE, NSTU, Noakhali-3814, Bangladesh.</h3>
                     <p class="line-text">2010 - 2014</p>
 					<p class="line-text"><a href=" ">Supervisor:  Prof. Mohammad Humayun Kabir</a></p>
                     <p class="line-text"><a href="https://github.com/syful-is/syful-is.github.io/blob/master/2.%20Research-Paper/2.%20Research-Paper/Journal%20Published/researchpaper_Detail-Comparison-of-Network-Simulators.pdf">Thesis: Network simulator.</a></p>
